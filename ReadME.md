@@ -1,4 +1,4 @@
-Check ACL for an User with ADACLScanner/Bloodhound
+# Check ACL for an User with ADACLScanner/Bloodhound
 
 ADACLScan.ps1 -Base “DC=contoso;DC=com” -Filter “(&(AdminCount=1))” -Scope subtree
 
