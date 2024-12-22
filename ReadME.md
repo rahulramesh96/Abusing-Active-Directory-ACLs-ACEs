@@ -1,3 +1,37 @@
+List of Edges 	
+1. AdminTo
+2. MemberOf
+3. HasSession
+4. ForceChangePassword
+5. AddMembers
+6. AddSelf
+7. CanRDP
+8. CanPSRemote
+9. ExecuteDCOM
+10. SQLAdmin
+11. AllowedToDelegate
+12. DCSync
+13. GetChanges/GetChangesAll
+14. GenericAll
+15. WriteDacl
+16. GenericWrite
+17. WriteOwner
+18. WriteSPN
+19. Owns
+20. AddKeyCredentialLink
+21. ReadLAPSPassword
+22. ReadGMSAPassword
+23. Contains
+24. AllExtendedRights
+25. GPLink
+26. AllowedToAct
+27. AddAllowedToAct
+28. TrustedBy
+29. SyncLAPSPassword
+30. HasSIDHistory
+31. WriteAccountRestrictions 		
+
+
 # Check ACL for an User with ADACLScanner/Bloodhound
 
 ## Easy Commands to run first
