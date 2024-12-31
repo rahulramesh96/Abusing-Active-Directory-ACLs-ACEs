@@ -1,5 +1,5 @@
-!("ACL Abuse Diagram")
-
+[!("ACL Abuse Diagram")
+](https://github.com/rahulramesh96/Abusing-Active-Directory-ACLs-ACEs/blob/0b832b1fd12580f8edfa310d3068a229daaf8b4d/ACL%20Abuse%20Diagram)
 
 List of Edges 	
 1. AdminTo
