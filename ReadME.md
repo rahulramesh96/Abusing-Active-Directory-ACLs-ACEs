@@ -1,3 +1,6 @@
+![Model](./ACL Abuse Diagram.png)
+
+
 List of Edges 	
 1. AdminTo
 2. MemberOf
