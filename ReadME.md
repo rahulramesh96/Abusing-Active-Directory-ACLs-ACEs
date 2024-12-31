@@ -1,4 +1,4 @@
-![Model](./"ACL Abuse Diagram.png")
+!("ACL Abuse Diagram")
 
 
 List of Edges 	
