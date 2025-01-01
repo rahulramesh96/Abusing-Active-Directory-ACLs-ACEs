@@ -36,14 +36,14 @@ List of Edges
 
 
 
-ForceChangePassword abused with Set-DomainUserPassword
-Add Members abused with Add-DomainGroupMember
-GenericAll abused with Set-DomainUserPassword or Add-DomainGroupMember
-GenericWrite abused with Set-DomainObject
-WriteOwner abused with Set-DomainObjectOwner
-WriteDACL abused with Add-DomainObjectACL
-AllExtendedRights abused with Set-DomainUserPassword or Add-DomainGroupMember
-Addself abused with Add-DomainGroupMember
+### ForceChangePassword abused with Set-DomainUserPassword
+### Add Members abused with Add-DomainGroupMember
+### GenericAll abused with Set-DomainUserPassword or Add-DomainGroupMember
+### GenericWrite abused with Set-DomainObject
+### WriteOwner abused with Set-DomainObjectOwner
+### WriteDACL abused with Add-DomainObjectACL
+### AllExtendedRights abused with Set-DomainUserPassword or Add-DomainGroupMember
+### Addself abused with Add-DomainGroupMember
 
 
 # Check ACL for an User with ADACLScanner/Bloodhound
