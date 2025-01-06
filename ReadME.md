@@ -1,3 +1,6 @@
+Commands from vintage.htb and rebound.htb are quite useful.\
+-> http://vxer.cn/2024/12/04/hackthebox-vintage-walkthrough/
+
 Authenticated LDAP Search
 
 `ldapsearch -x -H ldap://10.129.86.36 -D "P.Rosa@vintage.htb" -w "Rosaisbest123" -b "DC=vintage,DC=htb" "(objectClass=user)" sAMAccountName memberOf`
