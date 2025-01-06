@@ -1,3 +1,7 @@
+Authenticated LDAP Search
+
+`ldapsearch -x -H ldap://10.129.86.36 -D "P.Rosa@vintage.htb" -w "Rosaisbest123" -b "DC=vintage,DC=htb" "(objectClass=user)" sAMAccountName memberOf`
+
 [!("ACL Abuse Diagram")
 ](https://github.com/rahulramesh96/Abusing-Active-Directory-ACLs-ACEs/blob/0b832b1fd12580f8edfa310d3068a229daaf8b4d/ACL%20Abuse%20Diagram)
 
